@@ -1,7 +1,7 @@
 ## Introduction
 
 Click-by-Mouse Annotator
-    A simple single-label annotator
+    A simple single-label annotator  
     Only one operation(Click by Mouse) needed to annotate an image 
 
 ## Dependence
@@ -13,7 +13,7 @@ Click-by-Mouse Annotator
 
 # Step1
 
-Edit `config.yaml` to set your label name and correponding label id
+Edit `config.yaml` to set your label name and corresponding label id
 
 # Step2
 
