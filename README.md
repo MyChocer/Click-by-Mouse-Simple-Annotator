@@ -1,7 +1,6 @@
 ## Introduction
 
-Click-by-Mouse Annotator
-    A simple single-label annotator  
+Click-by-Mouse Annotator: A simple single-label annotator  
     Only one operation(Click by Mouse) needed to annotate an image 
 
 ## Dependence
